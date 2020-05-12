@@ -12,4 +12,5 @@ class Dog
     @bark
     puts "woof!"
   end
+  
 end
