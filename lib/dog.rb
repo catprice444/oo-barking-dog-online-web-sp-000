@@ -5,7 +5,7 @@ class Dog
   end
   
   def name
-    @name
+    @n
   end
   
   def bark
